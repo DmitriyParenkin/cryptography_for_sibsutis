@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/poker-holdem-karty.jpg</file>
+        <file>images/Сердце/Червь 2.png</file>
+        <file>images/Сердце/Червь 3.png</file>
+        <file>images/Сердце/Червь 4.png</file>
+        <file>images/Сердце/Червь 5.png</file>
+        <file>images/Сердце/Червь 6.png</file>
+        <file>images/Сердце/Червь 7.png</file>
+        <file>images/Сердце/Червь 8.png</file>
+        <file>images/Сердце/Червь 9.png</file>
+        <file>images/Сердце/Червь 10.png</file>
+        <file>images/Сердце/Червь В.png</file>
+        <file>images/Сердце/Червь Д.png</file>
+        <file>images/Сердце/Червь К.png</file>
+        <file>images/Сердце/Червь Т.png</file>
+        <file>images/Пики/Пики 10.png</file>
+        <file>images/Пики/Пики 2.png</file>
+        <file>images/Пики/Пики 3.png</file>
+        <file>images/Пики/Пики 4.png</file>
+        <file>images/Пики/Пики 5.png</file>
+        <file>images/Пики/Пики 6.png</file>
+        <file>images/Пики/Пики 7.png</file>
+        <file>images/Пики/Пики 8.png</file>
+        <file>images/Пики/Пики 9.png</file>
+        <file>images/Пики/Пики В.png</file>
+        <file>images/Пики/Пики Д.png</file>
+        <file>images/Пики/Пики К.png</file>
+        <file>images/Пики/Пики Т.png</file>
+        <file>images/Бубны/Бубны 10.png</file>
+        <file>images/Бубны/Бубны 2.png</file>
+        <file>images/Бубны/Бубны 3.png</file>
+        <file>images/Бубны/Бубны 4.png</file>
+        <file>images/Бубны/Бубны 5.png</file>
+        <file>images/Бубны/Бубны 6.png</file>
+        <file>images/Бубны/Бубны 7.png</file>
+        <file>images/Бубны/Бубны 8.png</file>
+        <file>images/Бубны/Бубны 9.png</file>
+        <file>images/Бубны/Бубны В.png</file>
+        <file>images/Бубны/Бубны Д.png</file>
+        <file>images/Бубны/Бубны К.png</file>
+        <file>images/Бубны/Бубны Т.png</file>
+        <file>images/Трефи/Трефи 10.png</file>
+        <file>images/Трефи/Трефи 2.png</file>
+        <file>images/Трефи/Трефи 3.png</file>
+        <file>images/Трефи/Трефи 4.png</file>
+        <file>images/Трефи/Трефи 5.png</file>
+        <file>images/Трефи/Трефи 6.png</file>
+        <file>images/Трефи/Трефи 7.png</file>
+        <file>images/Трефи/Трефи 8.png</file>
+        <file>images/Трефи/Трефи 9.png</file>
+        <file>images/Трефи/Трефи В.png</file>
+        <file>images/Трефи/Трефи Д.png</file>
+        <file>images/Трефи/Трефи К.png</file>
+        <file>images/Трефи/Трефи Т.png</file>
+        <file>images/стол.png</file>
+    </qresource>
+</RCC>
